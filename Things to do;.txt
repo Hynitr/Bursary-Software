@@ -1,0 +1,5 @@
+Things to do;
+- delete intake
+- edit fees
+- edit intake details
+- if balance is zero, dont accept payment
